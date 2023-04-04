@@ -1,0 +1,7 @@
+{
+  "name": "mycoinsm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
